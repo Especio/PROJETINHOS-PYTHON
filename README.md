@@ -1,4 +1,4 @@
-# meusprojetinhos
+# Workshop de NLP
 Projetos que estou estudando e alimentando meu gitHub
 
 
