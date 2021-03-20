@@ -1,5 +1,4 @@
 # Workshop de NLP
-Projetos que estou estudando e alimentando meu gitHub
 
 
 #Workshop no qual participei. O workshop FORHER foi realizado pelo grupo Turing, Data Girls e Elas pelas Exatas. Neste evento aprendemos conceitos introdutórios de NPL
